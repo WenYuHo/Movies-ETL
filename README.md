@@ -9,6 +9,5 @@ Main procedures:
 4. Load the dataframe into PostgreSQL server.
 
 Files:
-- Exploration notebook: Movies-ETL(Extract, Transform, Load).ipynb
-- Final Pipeline: ETL_create_database.ipynb
-[Movies-ETL(Extract, Transform, Load).ipynb](https://github.com/WenYuHo/Movies-ETL/blob/main/ETL_create_database.ipynb)
+- Exploration notebook: [Movies_Exploration.ipynb](Movies_Exploration.ipynb)
+- Final Pipeline: [ETL_create_database.ipynb](ETL_create_database.ipynb)
