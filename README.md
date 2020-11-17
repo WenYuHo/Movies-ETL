@@ -11,3 +11,4 @@ Main procedures:
 Files:
 - Exploration notebook: Movies-ETL(Extract, Transform, Load).ipynb
 - Final Pipeline: ETL_create_database.ipynb
+[Movies-ETL(Extract, Transform, Load).ipynb](https://github.com/WenYuHo/Movies-ETL/blob/main/ETL_create_database.ipynb)
